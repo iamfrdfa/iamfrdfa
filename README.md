@@ -61,7 +61,7 @@
 
 ### 💻 Aktuelle Skills
 ```javascript
-const michael = {
+const friedrich = {
   languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
   skill-set: ["Angular", "Firebase", "Git", "REST API", "Scrum", "Growth Mindset"]
   focus: "Frontend Development",
