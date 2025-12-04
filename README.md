@@ -18,7 +18,7 @@
       <img alt="Website" src="https://img.shields.io/badge/Website-online-success">
     </a>
     <a href="mailto:info@faraji.dev">
-      <img alt="Email" src="https://img.shields.io/badge/Email-info%40ffaraji.de-informational">
+      <img alt="Email" src="https://img.shields.io/badge/Email-info%40faraji.dev-informational">
     </a>
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=iamfrdfa&style=flat-square">
   </p>
@@ -110,6 +110,6 @@ const friedrich = {
 ---
 
 ## Kontakt
-- ✉️ Mail: info@ffaraji.de  
+- ✉️ Mail: info@faraji.dev  
 - 💼 LinkedIn: [Click my profile](https://www.linkedin.com/in/friedrich-faraji-b17735a5/)
 - 🌐 Portfolio: COMING SOON
