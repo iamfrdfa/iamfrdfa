@@ -17,7 +17,7 @@
     <a href="https://friedrich-faraji.de" target="_blank">
       <img alt="Website" src="https://img.shields.io/badge/Website-online-success">
     </a>
-    <a href="mailto:info@ffaraji.de">
+    <a href="mailto:info@faraji.dev">
       <img alt="Email" src="https://img.shields.io/badge/Email-info%40ffaraji.de-informational">
     </a>
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=iamfrdfa&style=flat-square">
