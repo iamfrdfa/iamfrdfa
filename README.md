@@ -76,7 +76,7 @@ const friedrich = {
 ## Stats & Aktivität
 <p>
   <img
-    src="https://vercel.com/iamfrdfas-projects/github-readme-stats/api?username=iamfrdfa&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&v=1"
+    src="https://vercel.com/iamfrdfas-projects/github-readme-stats/oabHFMSSW68LPXX5nuXFFksrk6wS/api?username=iamfrdfa&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&v=1"
     alt="GitHub stats" height="150">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfrdfa&layout=compact&hide_border=true&theme=transparent&v=1"
