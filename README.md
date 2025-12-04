@@ -76,24 +76,29 @@ const friedrich = {
 ## Stats & Aktivität
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=iamfrdfa&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=iamfrdfa&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&v=1"
     alt="GitHub stats" height="150">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfrdfa&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfrdfa&layout=compact&hide_border=true&theme=transparent&v=1"
     alt="Top Langs" height="150">
 </p>
 
 <p>
-  <img
-    src="https://streak-stats.demolab.com?user=iamfrdfa&hide_border=true"
-    alt="GitHub Streak" height="150">
+  <a href="https://streak-stats.demolab.com?user=iamfrdfa">
+    <img
+      src="https://streak-stats.demolab.com?user=iamfrdfa&hide_border=true&theme=transparent&v=1"
+      alt="GitHub Streak" height="150">
+  </a>
 </p>
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iamfrdfa&theme=onestar&no-frame=true&column=6" alt="trophies">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=iamfrdfa&theme=onestar&no-frame=true&column=6&v=1"
+      alt="Trophies">
   </a>
 </p>
+
 
 ---
 
