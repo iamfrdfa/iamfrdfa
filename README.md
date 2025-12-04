@@ -85,7 +85,7 @@ const friedrich = {
 
 <p>
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true"
+    src="https://streak-stats.demolab.com?user=iamfrdfa&hide_border=true"
     alt="GitHub Streak" height="150">
 </p>
 
