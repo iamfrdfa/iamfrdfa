@@ -69,11 +69,10 @@
 ```javascript
 const friedrich = {
   languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
-  skill-set: ["Angular", "Firebase", "Git", "REST API", "Scrum", "Growth Mindset"]
-  actual focus: "Backend Development",
-  unlocked skill: "Frontend Development",
-  goal: "Fullstack Webdeveloper",
-  learning: ["UI/UX Development"]
+  skills: ["Angular", "Firebase", "Git", "REST APIs", "Scrum"],
+  focus: "Frontend Development",
+  currentlyLearning: ["Backend Development", "UI/UX"],
+  goal: "Fullstack Web Developer"
 };
 ```
 
