@@ -112,4 +112,4 @@ const friedrich = {
 ## Kontakt
 - ✉️ Mail: info@faraji.dev  
 - 💼 LinkedIn: [Click my profile](https://www.linkedin.com/in/friedrich-faraji-b17735a5/)
-- 🌐 Portfolio: COMING SOON
+- 🌐 Portfolio: https://faraji.dev
