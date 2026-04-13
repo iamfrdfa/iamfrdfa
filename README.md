@@ -31,7 +31,7 @@
 ---
 
 ## Über mich
-- 🎯 Aktueller Schwerpunkt: **Angular 16–19**, **Standalone Components**, **Signals**, **RxJS**
+- 🎯 Aktueller Schwerpunkt: **Angular**, **Standalone Components**, **Signals**, **RxJS**
 - 🧪 Testing: **Jest/Vitest** + **Testing Library**
 - 🛠️ Tooling: **Nx**, **ESLint**, **Prettier**, **Husky**, **Commitlint**
 - 🚀 Deployment: **GitHub Actions** → **GitHub Pages** / **Netlify**
