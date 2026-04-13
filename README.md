@@ -64,7 +64,7 @@
 const friedrich = {
   languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
   skill-set: ["Angular", "Firebase", "Git", "REST API", "Scrum", "Growth Mindset"]
-  focus: "Frontend Development",
+  focus: "Backend Development",
   upcoming focus: "Backend Development",
   goal: "Fullstack Webdeveloper",
   learning: ["UI/UX Development"]
@@ -99,15 +99,15 @@ const friedrich = {
   </a>
 </p>
 
-Aktivität 2
+## Aktivität 2
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=iamfrdfa&theme=dark&hide_border=true&background=00000000" height="150" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FriggemannMichael&theme=github_dark" height="150" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamfrdfa&theme=github_dark" height="150" alt="GitHub Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FriggemannMichael&theme=github_dark" height="150" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FriggemannMichael&theme=github_dark" height="150" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamfrdfa&theme=github_dark" height="150" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamfrdfa&theme=github_dark" height="150" alt="Most commit language" />
 </div>
 
 
