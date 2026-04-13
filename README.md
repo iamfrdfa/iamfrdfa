@@ -23,9 +23,12 @@
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=iamfrdfa&style=flat-square">
   </p>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DCFB6&random=true&width=435&lines=Frontend+Developer+in+the+making+%F0%9F%98%8D;Always+learning%2C+always+growing+%F0%9F%8C%B1;Too+much+is+never+enough+%F0%9F%92%AA" alt="Typing SVG" />
-  </a>
+  <div align="center">
+      <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=3DCFB6&random=true&width=435&lines=Fullstack+Developer+in+the+making+%F0%9F%98%8D;Always+learning%2C+always+growing+%F0%9F%8C%B1;Too+much+is+never+enough+%F0%9F%92%AA"
+        alt="Typing SVG" />
+    </a>
+  </div>
 </div>
 
 ---
@@ -40,7 +43,7 @@
 ---
 
 ## Tech Stack
-<p>
+<!--p>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
   <img alt="RxJS" src="https://img.shields.io/badge/RxJS-B7178C?logo=reactivex&logoColor=white">
@@ -48,7 +51,10 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
-</p>
+</p-->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,rxjs,html,css,sass,git,github,firebase,figma,phpstorm"/>
+</div>
 
 ---
 
@@ -64,8 +70,8 @@
 const friedrich = {
   languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
   skill-set: ["Angular", "Firebase", "Git", "REST API", "Scrum", "Growth Mindset"]
-  focus: "Backend Development",
-  upcoming focus: "Backend Development",
+  actual focus: "Backend Development",
+  unlocked skill: "Frontend Development",
   goal: "Fullstack Webdeveloper",
   learning: ["UI/UX Development"]
 };
@@ -74,34 +80,9 @@ const friedrich = {
 ---
 
 ## Stats & Aktivität
-<p>
-  <img
-    src="https://vercel.com/iamfrdfas-projects/github-readme-stats/oabHFMSSW68LPXX5nuXFFksrk6wS/api?username=iamfrdfa&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&v=1"
-    alt="GitHub stats" height="150">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfrdfa&layout=compact&hide_border=true&theme=transparent&v=1"
-    alt="Top Langs" height="150">
-</p>
-
-<p>
-  <a href="https://streak-stats.demolab.com?user=iamfrdfa">
-    <img
-      src="https://streak-stats.demolab.com?user=iamfrdfa&hide_border=true&theme=transparent&v=1"
-      alt="GitHub Streak" height="150">
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=iamfrdfa&theme=onestar&no-frame=true&column=6&v=1"
-      alt="Trophies">
-  </a>
-</p>
-
-## Aktivität 2
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=iamfrdfa&theme=dark&hide_border=true&background=00000000" height="150" alt="GitHub Streak" />
+  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamfrdfa&theme=github_dark" height="150" alt="GitHub Profile Summary" />
 </div>
 
