@@ -101,7 +101,7 @@ const friedrich = {
 
 Aktivität 2
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FriggemannMichael&theme=dark&hide_border=true&background=00000000" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=iamfrdfa&theme=dark&hide_border=true&background=00000000" height="150" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FriggemannMichael&theme=github_dark" height="150" alt="GitHub Profile Summary" />
 </div>
 
